@@ -4,8 +4,13 @@ The Expense Tracker App is a simple and user-friendly application designed to he
 
 **Features**
 >Add Expenses: Log expenses with details like amount, category, date, and description.
+>
 >Categories: Pre-defined and customizable categories such as Food, Travel, Entertainment, Utilities, etc.
+>
 >Expense Summary: View your expenses in a clear, categorized format with monthly and weekly breakdowns.
+>
 >Data Visualization: Pie charts and bar graphs to visualize your spending habits.
+>
 >Search and Filter: Easily search and filter expenses by category, date, or keyword.
+>
 >Export Data: Export your expense records in CSV or PDF format for offline use or sharing.
